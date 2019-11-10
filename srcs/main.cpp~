@@ -1,0 +1,10 @@
+#include <SFML/Graphics.hpp>
+#include <spdlog/spdlog.h>
+
+
+int main()
+{
+  
+  spdlog::info("Hello {}!", "World");
+
+}

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dragomir/dev/A-star/srcs/main.cpp
+vector
+-
+map
+-
+cmath
+-
+algorithm
+-
+iterator
+-
+random
+-
+ctime
+-
+SFML/Graphics.hpp
+-
+spdlog/spdlog.h
+-
+

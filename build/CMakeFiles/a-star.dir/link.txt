@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/a-star.dir/srcs/main.cpp.o  -o a-star -lsfml-system -lsfml-graphics -lsfml-window -lpthread -lspdlog 
