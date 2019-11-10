@@ -1,0 +1,4 @@
+build/
+*.txt~
+*.sh~
+srcs/*.cpp~
